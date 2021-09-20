@@ -1,7 +1,13 @@
 /* FAQ Section */
-*{
+@font-face {
+    font-family: "Avenir-Medium";
+    src: url("fonts/Avenir-Medium-09.ttf") format('woff2');
+}
+
+* {
     margin: 0;
     padding: 0;
+    font-family: "Avenir-Medium";
 }
 
 
